@@ -1,0 +1,74 @@
+{
+ "santorini": {
+  "author": "Giles Laurent",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg",
+  "file": "File:1000 Three domes of Oia in Santorini Photo by Giles Laurent.jpg"
+ },
+ "bali": {
+  "author": "Vyacheslav Argenberg",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rice_terraces,_Bali.jpg",
+  "file": "File:Rice terraces, Bali.jpg"
+ },
+ "newyork": {
+  "author": "Superbass",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:2024-11-17-Lower_Manhattan-0593.jpg",
+  "file": "File:2024-11-17-Lower Manhattan-0593.jpg"
+ },
+ "tokyo": {
+  "author": "Kakidai",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_at_night_7.JPG",
+  "file": "File:Tokyo Tower at night 7.JPG"
+ },
+ "dubai": {
+  "author": "Norlando Pobre",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Dubai_Marina_Skyline.jpg",
+  "file": "File:Dubai Marina Skyline.jpg"
+ },
+ "paris": {
+  "author": "Joe deSousa",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_sunset,_Paris_July_2013.jpg",
+  "file": "File:Eiffel Tower sunset, Paris July 2013.jpg"
+ },
+ "rio": {
+  "author": "Donatas Dabravolskas",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sugarloaf_Sunrise_2.jpg",
+  "file": "File:Sugarloaf Sunrise 2.jpg"
+ },
+ "maldives": {
+  "author": "Matheenfaiz",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Anantara_Kihavah_-_Aerial_Hero_Shot_2024.jpg",
+  "file": "File:Anantara Kihavah - Aerial Hero Shot 2024.jpg"
+ },
+ "capetown": {
+  "author": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Table_Mountain_--_2024_--_2794%2B96%2B98%2B2800%2B01.jpg",
+  "file": "File:Cape Town (ZA), Table Mountain -- 2024 -- 2794+96+98+2800+01.jpg"
+ },
+ "sydney": {
+  "author": "Benh LIEU SONG (Flickr)",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_and_Harbour_Bridge_Dusk_(3)_2019-06-21.jpg",
+  "file": "File:Sydney Opera House and Harbour Bridge Dusk (3) 2019-06-21.jpg"
+ },
+ "iceland": {
+  "author": "Carl Young",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Iceland_Aurora_6.jpg",
+  "file": "File:Iceland Aurora 6.jpg"
+ },
+ "machupicchu": {
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_47.JPG",
+  "file": "File:Machu Picchu, Perú, 2015-07-30, DD 47.JPG"
+ }
+}
